@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">YoutubePlayerSupportFragmentDemo</string>
+    <string name="DEVELOPER_KEY">Your Developer Key</string>
+    <string name="error_init_failure">Initialization failure: Unable to play video</string>
+    <string name="youtube_activity_fragment_placeholder">The YouTube Fragment can be placed anywhere         in a layout. You could use this space to describe the video, load some comments or anything else you can think of.     The benefit of using a Fragment is that your hosting Activity can be of any type.</string>
+</resources>
